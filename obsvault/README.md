@@ -1,6 +1,6 @@
 ---
 created: 2022-05-04T15:43:08-06:00
-updated: 2022-05-11T11:59:06-06:00
+updated: 2022-05-15T00:30:16-06:00
 note: "Keep as /README for GitHub and Bitbucket repo displays"
 ---
 # Welcome to //career.stevens.pro
@@ -60,7 +60,7 @@ Greg 😱
 
 1. 🎥 [[YouTube - @GregWorks - Featured GetToKnowMe Video#Featured Video|Get to Know Me Video (made for AWS, applicable to Atlassian)]]
 	1. 8 minute #video, first 8 minutes of a 20 minute video I will happily share with you if you ask me.
-	1. ~40+ hours put into learning [[Davinci Resolve]] to make this. #silly
+	1. ~40+ hours put into learning [[Davinci Resolve - Video Editor]] to make this. #silly
 	1. [[Atlassian]] opportunities drove me to create this repo, this resume, finally.
 	1. I think I 💗 Atlassian, more [[career/sections/skills/Project Management|Project Management]] focused.
 

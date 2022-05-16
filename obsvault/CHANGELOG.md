@@ -1,6 +1,6 @@
 ---
 created: 2022-05-12T12:54:43-06:00
-updated: 2022-05-12T12:54:43-06:00
+updated: 2022-05-12T19:16:46-06:00
 ---
 # Changelog 📝
 
@@ -26,7 +26,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 	- Renderers, Other Editor, typically follow strict line breaks.
 	* e.g. on GitHub, Bitbucket, GitLab, or other Markdown viewer/editor.
 	* Btw, recommend [[Ghostwriter Markdown Editor]]
-
 
 
 ### Fixed

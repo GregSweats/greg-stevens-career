@@ -1,6 +1,7 @@
 ---
 created: 2022-05-10T12:52:41-06:00
-updated: 2022-05-10T18:11:14-06:00
+updated: 2022-05-15T01:04:33-06:00
+aliases: [linkedin-assesments,assesments]
 ---
 
 > [!SUCCESS] Success ?
@@ -15,3 +16,8 @@ updated: 2022-05-10T18:11:14-06:00
 ![[Screenshot 2022-04-14 at 19-05-39 (46) LinkedIn.png|500]]
 ![[Screenshot 2022-04-14 at 19-05-46 (46) LinkedIn.png|500]]
 
+---
+
+## Incoming URLs
+### `/linkedin-assesments`
+- Added 2022-05-15 for: Greg Stevens - DevOps, Cloud, Full-stack Web Dev, PM, Agile - v2022.2.2.pub - Publisher

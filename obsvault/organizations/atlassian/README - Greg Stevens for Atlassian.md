@@ -1,6 +1,6 @@
 ---
 created: 2022-05-05T11:21:17-06:00
-updated: 2022-05-09T16:06:23-06:00
+updated: 2022-05-15T02:20:27-06:00
 ---
 # README - Greg Stevens for Atlassian
 Calgary, AB, Canada
@@ -120,7 +120,7 @@ Or give you some dope #KeyboardShortcuts :)
 
 
 ### Typing (yup...)
-![[career/sections/achievements/Typing 100WPM+]]
+![[Typing]]
 
 
 ### Security

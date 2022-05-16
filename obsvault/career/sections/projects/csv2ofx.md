@@ -1,3 +1,8 @@
+---
+aliases: [csv2ofx]
+created: 2022-05-15T00:25:48-06:00
+updated: 2022-05-15T00:25:48-06:00
+---
 # csv2ofx
 ## csv2ofx
 Contributing to a nicely put together package called [`csv2ofx`](https://github.com/reubano/csv2ofx) 

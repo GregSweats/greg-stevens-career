@@ -1,8 +1,17 @@
- #### 80 WPM Avg, 128 Max
+---
+created: 2022-05-15T02:21:12-06:00
+updated: 2022-05-15T02:21:12-06:00
+aliases: [typing]
+---
+ #### ~135 Max WPM; 80-100 WPM Avg
 
 It feels weird to add a section purely about typing, but, as a stranger told me in Mexico, watching me type in the resort's computer area (no wifi at the time), I "have wonderful typing form".
 
 Also trying to hustle to make some money, fame, and most-importantly, credibility, by finding, entering, and winning, some typing contests.
+
+> [!NOTE] TyprX Profile  
+> https://www.typrx.com/profile/34603  
+> [[TyprX - typing races - @gsteve3]]
 
 
 ## Highlights

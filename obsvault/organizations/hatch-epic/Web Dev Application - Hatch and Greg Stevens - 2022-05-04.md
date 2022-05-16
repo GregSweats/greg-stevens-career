@@ -1,6 +1,6 @@
 ---
 created: 2022-05-04T15:13:07-06:00
-updated: 2022-05-04T18:09:18-06:00
+updated: 2022-05-15T00:34:45-06:00
 aliases: [hatch, org/hatch]
 ---
 
@@ -8,7 +8,7 @@ aliases: [hatch, org/hatch]
 
 - **Sorry, I had trouble focusing while proof-reading this got so long.**
 - Don't blame yourself if this is long, overwhelming, or meh. 
-- It's me, not you. I ramble. I type 80-100 WPM average, maxing out at 132, working on becoming the [[UltimateTyping Champion]], but a humbling ways away from the 170+ WPM needed there.
+- It's me, not you. I ramble. I type 80-100 WPM average, maxing out at 132, working on becoming the [[UltimateTyping Championship]], but a humbling ways away from the 170+ WPM needed there.
 - Just call me, it can be as long or as semi-short as you like.
 - [(403) 498.6809](tel:14034986809)
 - I will give you at least three new tips about whatever may come up on the phone.

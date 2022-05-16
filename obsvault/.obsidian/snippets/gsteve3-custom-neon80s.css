@@ -126,6 +126,12 @@ img {
 
 
 
+/* 2022-05-12 - Fix list-items on long text causing `::before` to start a new line */
+ul li:not(.task-list-item)::before {
+  /* override inline-block */
+  display: inline !important;
+}
+
 
 /* *** *** *** */
 

@@ -44,6 +44,16 @@
       "type": "search",
       "title": "embed",
       "query": "embed"
+    },
+    {
+      "type": "file",
+      "title": "Timely Success Tools.excalidraw",
+      "path": "organizations/memory-timely/success/Timely Success Tools.excalidraw.md"
+    },
+    {
+      "type": "file",
+      "title": "README",
+      "path": "organizations/memory-timely/success/README.md"
     }
   ]
 }

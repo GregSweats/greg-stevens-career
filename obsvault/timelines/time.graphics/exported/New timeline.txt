@@ -1,0 +1,75 @@
+Name:
+New timeline
+
+Type: Event
+Name:
+New
+event
+Time: 1986 1 1
+TagCsv: 
+
+Type: Event
+Name:
+New
+event
+Time: 1999 5 1
+TagCsv: 
+
+Type: Event
+Name:
+New
+event
+Time: 2004 1 3
+TagCsv: 
+
+Type: Event
+Name:
+New
+event
+Time: 2008 1 18
+TagCsv: 
+
+
+Type: Period
+Name:
+Childhood
+Time from: 1985 11 1
+Time to: 1998 7 1 0 0
+TagCsv: 
+
+Type: Period
+Name:
+Teen Hacking, Contracting
+Time from: 1999 1 1 0 0
+Time to: 2004 1 1 0 0
+TagCsv: 
+
+Type: Period
+Name:
+New
+event
+Time from: 1999 1 2
+Time to: 1999 1 2
+TagCsv: 
+
+Type: Period
+Name:
+An example of a time span
+Time from: 2004 12 30
+Time to: 2020 9 31 0 0
+TagCsv: 
+
+Type: Period
+Name:
+An example of a time span
+Time from: 2020 10 1
+Time to: 2022 12 26
+TagCsv: 
+
+
+
+
+
+
+
+

@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 8,
+  "baseFontSize": 10,
   "theme": "obsidian",
   "cssTheme": "80s Neon",
   "translucency": false,
   "enabledCssSnippets": [
-    "gsteve3-custom-neon80s"
+    "gsteve3-custom-neon80s",
+    "timeline-style-gsteve3"
   ]
 }

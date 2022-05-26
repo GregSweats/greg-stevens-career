@@ -1,8 +1,10 @@
 ---
 created: 2022-05-05T11:21:17-06:00
 updated: 2022-05-15T02:20:27-06:00
+aliases: [atlassian, org/atlassian]
+tags: #LandingPage #redirect
 ---
-# README - Greg Stevens for Atlassian
+# Greg Stevens for Atlassian
 Calgary, AB, Canada
 
 ![[header-footer.include]]

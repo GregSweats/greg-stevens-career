@@ -1,10 +1,15 @@
 # powerbi-moodle-data-source (Connect Power BI to Moodle)
 ## powerbi-moodle-data-source (Connect Power BI to Moodle)
-[Savvy-Student-Stats/powerbi-moodle-data-source](https://github.com/Savvy-Student-Stats/powerbi-moodle-data-source)
+
+
+
+> [!IMPORTANT] GitHub Repo #ExternalLink
+> 
+> [Savvy-Student-Stats/powerbi-moodle-data-source](https://github.com/Savvy-Student-Stats/powerbi-moodle-data-source)
 
 > "Using the Moodle web service, we extract Course and Grade info to feed into Power BI for pretty reports and AI insights!"
 
-- Made the project public so you, **Atlassian**, could see it. (*2022-04-14*) #new2022 
+- Made the project public so **[[Atlassian]]** could see it. (*2022-04-14*) #new2022 
 - Just now starting to Open Source it, so the name/URL/content is subject to change.
 - After many revisions, ended up finding out about, and using, the built-in Moodle Mobile REST API to get the data I wanted, then put them into PowerBI tables.
 - *Moved project to its own org for future Org changes, maybe someone else takes it over. All the backlinks, yuck. *~~https://github.com/gsteve3/school-stats-powerbi~~

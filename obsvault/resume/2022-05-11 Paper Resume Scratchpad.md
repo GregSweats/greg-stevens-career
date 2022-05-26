@@ -6,10 +6,7 @@ updated: 2022-05-11T11:55:52-06:00
 
 
 > [!NOTE] Download Most Recent Resume
-> PDF at [[Greg Stevens - DevOps, Cloud, Full-stack Web Dev, PM, Agile - v2022.2.1.pdf]]
-> MS Publisher at [[Greg Stevens - DevOps, Cloud, Full-stack Web Dev, PM, Agile - v2022.2.1.pub]]
-> 
-
+> [[resume/README|resume]]
 
 
 

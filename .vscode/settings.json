@@ -1,12 +1,12 @@
 {
-    "files.eol": "\n",
-    "files.insertFinalNewline": false,
     "conventionalCommits.scopes": [
         "obsidian",
         "ui",
         "vscode",
         "gitrepo"
     ],
+    "files.eol": "\n",
+    "files.insertFinalNewline": false,
     "open.fileMappings": [
         {
             "output2": "obsidian://open?vault=obsvault&file=../${editor:relativeFile}",

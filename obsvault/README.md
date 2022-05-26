@@ -65,6 +65,34 @@ Greg 😱
 	1. I think I 💗 Atlassian, more [[career/sections/skills/Project Management|Project Management]] focused.
 
 
+2. [[Timeline1]]
+
+
+
+> [!NOTE]
+> *Testing [[Obsidian Publish]] rendering of a [[Transclusion - Wikipedia|Transclusion (include)]] as a (1) Note, (2) Image from screenshot, and (3) Obsidian PDF Export.*
+
+
+#### Timeline1 as a Note (MD)
+![[Timeline1]]
+
+
+---
+
+#### Timeline1 as an Image (PNG)
+![[Timeline1.png]]
+
+---
+
+#### Timeline1 as a PDF Download
+> [!PDF] Download Timeline PDF
+> [[Timeline1.pdf]]
+
+*Note: Transclusion forced Firefox (without inline PDF reader) to download. #gross #ExperimentResult*
+
+
+---
+
 ### Second - The Rest
 
 - [[README - Greg Stevens for Atlassian]]

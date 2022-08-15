@@ -1,7 +1,7 @@
 ---
 title: # README for Timely Job Application
 created: 2022-05-12T17:24:55-06:00
-updated: 2022-05-12T18:06:28-06:00
+updated: 2022-08-14T18:50:22-06:00
 aliases: [memory]
 ---
 

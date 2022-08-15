@@ -1,3 +1,7 @@
+---
+created: 2022-08-14T18:50:22-06:00
+updated: 2022-08-14T18:50:22-06:00
+---
 # DevOps
 
 - Changed my life circa Summer 2017.
@@ -5,17 +9,8 @@
 - Audible recommended "The Phoenix Project"
 
 ---
-created: 2022-04-16T23:44:05 (UTC -06:00)
-tags: []
-source: chrome-extension://hajanaajapkhaabfcofdjgjnlgkdkknm/_generated_background_page.html
-author: 
----
-
-# 
-
-
 
 ---
 [**The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win**](https://www.goodreads.com/book/show/17255186-the-phoenix-project)) by [Gene Kim](https://www.goodreads.com/author/show/328437.Gene_Kim), [Kevin Behr](https://www.goodreads.com/author/show/328439.Kevin_Behr), [George Spafford](https://www.goodreads.com/author/show/328438.George_Spafford)
-> ## Excerpt
+> [!QUOTE] #book
 > Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO.   The com...

@@ -2,6 +2,8 @@
 aliases: [tiller]
 date_greg_excited: 2022-05-20
 canonical: https://career.stevens.pro/tiller
+created: 2022-08-14T18:50:22-06:00
+updated: 2022-08-14T18:50:22-06:00
 ---
 # Tiller HQ
 

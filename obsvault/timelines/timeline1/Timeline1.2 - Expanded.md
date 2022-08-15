@@ -1,6 +1,7 @@
 ---
-created: 2022-05-19
+created: 2022-05-18T18:00:00-06:00
 aliases: [timeline, timeline1]
+updated: 2022-08-14T18:50:22-06:00
 ---
 
 
@@ -135,7 +136,7 @@ content:
 <br>
 - During my employment, Nucleus was a top-notch, local Internet Service Provider (ISP), specializing in Business and Home ADSL Service.
 - Offered one of the only legitimate alternativers to the "big" providers such as [Shaw](https://www.shaw.ca/?utm_campaign=career.stevens.pro&utm_medium=obsidian&utm_source=Timeline1), [TELUS](https://www.telus.com/?utm_campaign=career.stevens.pro&utm_medium=obsidian&utm_source=Timeline1), and more.
-- Unbeknowing to Nucleus, years earlier, as a teenager, I may have ~~hacked~~ security tested their network, obtained a remote x session, and ran a speed test, for a consistent 5 Mbps up and down! 🚀 Then, hypothetically, sent an email from a ~~hacked~~ vulnerable TELUS account for anonymity, about the vulnerability. 
+- Unbeknowing to Nucleus, years earlier, as a teenager, I may have ~~hacked~~ security tested their network, obtained a remote x session, and ran a speed test, for a consistent 5 Mbps up and down! 🚀 Then, hypothetically, sent an email from a ~~hacked~~ vulnerable TELUS account for anonymity, about the vulnerability.
 ```
 
 

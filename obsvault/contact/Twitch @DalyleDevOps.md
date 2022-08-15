@@ -6,7 +6,8 @@ author:
 ---
 
 # DalyleDevOps - Twitch
-
-> ## Excerpt
 > Twitch is the world's leading video platform and community for gamers.
 
+
+> [!LINK] Twitch @DalyleDevOps 
+> https://www.twitch.tv/dalyledevops

@@ -1,7 +1,3 @@
----
-created: 2022-05-15T02:21:36-06:00
-updated: 2022-05-15T02:21:36-06:00
----
 ### Dalyle DevOps Inc.
 
 - [Dalyle DevOps Inc. | Greg Stevens (www.dalyle.io)](https://www.dalyle.io/)
@@ -21,6 +17,7 @@ updated: 2022-05-15T02:21:36-06:00
 - [LinkedIn `@gsteve3`](https://www.linkedin.com/in/gsteve3/)
 - [GitHub.com `@gsteve3`](https://github.com/gsteve3) *- Have a look at [`Stars`](https://github.com/gsteve3?tab=stars) to see what I am into lately.*
 - [Twitter `@GregStevens403`](https://twitter.com/gregstevens403) *- Semi-abandoned, focus is on `@DalyleDevOpsInc` right now.*
+- [TyprX - typing races - `@gsteve3`](https://www.typrx.com/profile/34603) #new2022
 - [[Goodreads.com @gsteve3]] #recommended-reading
 - [Instagram `@diabefit`](https://www.instagram.com/diabefit/)
 	- Diabetes and Fitness

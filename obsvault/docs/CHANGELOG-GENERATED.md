@@ -1,7 +1,3 @@
----
-created: 2022-05-15T02:20:27-06:00
-updated: 2022-05-15T02:20:27-06:00
----
 # CHANGELOG-GENERATED
 - 2022-04-17 at 12h42 · [[obsidian-admonition]]
 - 2022-04-17 at 12h39 · [[300 TODO Kanban Board]]
@@ -29,7 +25,7 @@ updated: 2022-05-15T02:20:27-06:00
 - 2022-04-17 at 00h32 · [[Goodreads.com `@gsteve3`]]
 - 2022-04-17 at 00h27 · [[twitter-embed]]
 - 2022-04-16 at 23h59 · [[2022-04-05.20-16-40.066.BENNY-WIN.msedge.TyprX---95WPM.png]]
-- 2022-04-16 at 23h59 · [[Typing]]
+- 2022-04-16 at 23h59 · [[Typing 100WPM+]]
 - 2022-04-16 at 23h48 · [[Goodreads.com @gsteve3]]
 - 2022-04-16 at 23h46 · [[DevOps]]
 - 2022-04-16 at 23h42 · [[Twitch Stream @DalyleDevOps]]

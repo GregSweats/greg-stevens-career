@@ -1,3 +1,7 @@
+---
+created: 2022-08-14T18:50:22-06:00
+updated: 2022-08-14T18:50:22-06:00
+---
 Think CRM software is just about contact management? Think again. HubSpot CRM has free tools for everyone on your team, and it’s 100% free. Here’s how our free CRM solution makes _your_ job easier ...
 
 [Get free CRM](https://app.hubspot.com/signup-hubspot/crm?hubs_signup-url=www.hubspot.com/products/crm&hubs_signup-cta=crmpersona-mainhero)

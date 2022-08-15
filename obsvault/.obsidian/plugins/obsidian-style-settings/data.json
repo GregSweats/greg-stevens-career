@@ -1,0 +1,10 @@
+{
+  "shimmering-focus@@show-ribbons": true,
+  "shimmering-focus@@show-titlebar": true,
+  "shimmering-focus@@show-titlebar-text": true,
+  "shimmering-focus@@show-header-bar": true,
+  "shimmering-focus@@show-graph-controls": false,
+  "shimmering-focus@@cursor-styles": "ia-writer-cursor",
+  "shimmering-focus@@no-floating-metadata": true,
+  "shimmering-focus@@show-sidebar-tabs": true
+}

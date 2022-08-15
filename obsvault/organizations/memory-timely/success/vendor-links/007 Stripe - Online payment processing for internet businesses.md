@@ -1,3 +1,7 @@
+---
+created: 2022-08-14T18:50:22-06:00
+updated: 2022-08-14T18:50:22-06:00
+---
 Millions of businesses of all sizes—from startups to large enterprises—use Stripe’s software and APIs to accept payments, send payouts, and manage their businesses online.
 
 Instacart logo Salesforce logo Amazon logo Slack logo Shopify logo Google logo Lyft logo Zoom logo

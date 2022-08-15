@@ -1,6 +1,6 @@
 ---
 created: 2022-05-15T02:21:12-06:00
-updated: 2022-05-15T02:21:12-06:00
+updated: 2022-08-14T18:50:22-06:00
 aliases: [typing]
 ---
  #### ~135 Max WPM; 80-100 WPM Avg

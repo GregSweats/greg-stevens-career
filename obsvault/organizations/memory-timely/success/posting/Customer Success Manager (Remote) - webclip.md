@@ -1,6 +1,6 @@
 ---
 created: 2022-05-12T13:15:58-06:00
-updated: 2022-05-12T13:15:58-06:00
+updated: 2022-08-14T18:50:22-06:00
 ---
 We’re looking for an experienced **Customer Success Manager** located on the **West Coast** to join our growing team.
 

@@ -1,7 +1,7 @@
 ---
 aliases: [csv2ofx]
 created: 2022-05-15T00:25:48-06:00
-updated: 2022-05-15T00:25:48-06:00
+updated: 2022-08-14T18:50:22-06:00
 ---
 # csv2ofx
 I *really* wanted to automatically pull in my six EQBank.ca accounts, but they provide a non-standard CSV with dates such as "03 MAY 2022" which neither [[Quickbooks]], nor [[Quicken]], can parse. Or [[Moneydance]] or [[Moneyspire]].[]

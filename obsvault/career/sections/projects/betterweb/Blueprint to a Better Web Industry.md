@@ -1,9 +1,9 @@
 ---
 created: 2022-05-04T17:02:00-06:00
-updated: 2022-05-05T09:46:41-06:00
+updated: 2022-06-29T16:15:09-06:00
 publish: true
 public_url: https://career.stevens.pro/_attachments/Blueprint+to+a+Better+Web+Industry
-aliases: [/betterweb, /better-web]
+aliases: [betterweb, better-web, better]
 ---
 
 # Blueprint to a Better Web Industry

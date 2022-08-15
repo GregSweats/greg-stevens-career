@@ -1,3 +1,7 @@
+---
+created: 2022-08-14T18:50:22-06:00
+updated: 2022-08-14T18:50:22-06:00
+---
 ## The Leading Subscription Analytics Platform
 
 The best teams in SaaS use ChartMogul to measure, understand, and grow their recurring revenue.

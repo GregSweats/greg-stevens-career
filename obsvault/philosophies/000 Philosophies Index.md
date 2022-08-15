@@ -1,3 +1,7 @@
+---
+created: 2022-08-14T18:50:22-06:00
+updated: 2022-08-14T18:50:22-06:00
+---
 ### Eat Your Own Dog Food
 
 > _"**Eating your own dog food** or “**dogfooding**” is the practice of using one's own products or services._

@@ -492,6 +492,14 @@
             "type": "tabs",
             "children": [
               {
+                "id": "8094dc0ddc76d51d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
                 "id": "eca097d4e3c04995",
                 "type": "leaf",
                 "state": {
@@ -504,14 +512,6 @@
                 "type": "leaf",
                 "state": {
                   "type": "recent-files",
-                  "state": {}
-                }
-              },
-              {
-                "id": "8094dc0ddc76d51d",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
                   "state": {}
                 }
               },
@@ -636,7 +636,156 @@
         "collapsed": true
       },
       "active": "9915a1f69e319768"
+    },
+    "2022-06-14 RBC": {
+      "main": {
+        "id": "7419fbe39fe1199d",
+        "type": "split",
+        "children": [
+          {
+            "id": "86ccc007ed852fbe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "organizations/rbc/RBC Cover Letter 2022-06-14.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "010b788e7a28ee9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_attachments/RBC Cover Letter 2022-06-14 v2  - With Attitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d72b82ad98fe5b77",
+        "type": "split",
+        "children": [
+          {
+            "id": "2aa29539ba4aa7cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "03ce655552445353",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3e53df6a290c7cc1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "world skills competition",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "24d63e1087891578",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 446,
+        "collapsed": true
+      },
+      "right": {
+        "id": "c12bf9e01232c643",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c2331eb478dc697",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9528a086a4fffcdb",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "organizations/rbc/RBC Cover Letter 2022-06-14.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "47096cd5e3f4270c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "organizations/rbc/RBC Cover Letter 2022-06-14.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4beff77641f4a752",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "2f3964066297aa51",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "organizations/rbc/RBC Cover Letter 2022-06-14.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "86ccc007ed852fbe"
     }
   },
-  "active": "2022-05-12 Memory Timely Job Application"
+  "active": "2022-06-14 RBC"
 }

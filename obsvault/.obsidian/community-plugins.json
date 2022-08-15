@@ -40,7 +40,6 @@
   "obsidian-tabs",
   "obsidian-kanban",
   "obsidian-plugin-toc",
-  "obsidian-vault-statistics-plugin",
   "obsidian-paste-to-current-indentation",
   "copy-publish-url",
   "code-block-copy",
@@ -51,5 +50,11 @@
   "tabout",
   "tag-word-cloud",
   "obsidian-git",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "get-info-plugin",
+  "obsidian-local-rest-api",
+  "periodic-notes",
+  "obsidian-style-settings",
+  "obsidian-wikipedia",
+  "obsidian-autocomplete-plugin"
 ]

@@ -11,6 +11,12 @@
         "Mod"
       ],
       "key": "\\"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
     }
   ],
   "app:toggle-right-sidebar": [
@@ -37,21 +43,7 @@
     }
   ],
   "open-vscode:open-vscode": [],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "E"
-    },
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
+  "daily-notes": [],
   "editor:toggle-blockquote": [
     {
       "modifiers": [
@@ -158,15 +150,7 @@
       "key": "`"
     }
   ],
-  "obsidian-day-planner:app:add-day-planner-to-note": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "Q"
-    }
-  ],
+  "obsidian-day-planner:app:add-day-planner-to-note": [],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -360,14 +344,7 @@
       "key": "`"
     }
   ],
-  "obsidian-day-planner:app:show-day-planner-today-note": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
+  "obsidian-day-planner:app:show-day-planner-today-note": [],
   "editor:toggle-bullet-list": [
     {
       "modifiers": [
@@ -620,6 +597,55 @@
         "Alt"
       ],
       "key": "F11"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "periodic-notes:prev-daily-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "periodic-notes:next-daily-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-wikipedia:wikipedia-get-search-term": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
     }
   ]
 }

@@ -1,7 +1,7 @@
 ---
 aliases: [security, hacking]
 created: 2022-05-15T00:26:57-06:00
-updated: 2022-05-15T00:26:57-06:00
+updated: 2022-08-14T18:50:22-06:00
 ---
 - PEN Testing
 - `OWASP ZAP!`

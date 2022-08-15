@@ -1,3 +1,7 @@
+---
+created: 2022-08-14T18:50:23-06:00
+updated: 2022-08-14T18:50:23-06:00
+---
 **.**2 Product Release: Build smarter, better, faster with smart automations & enhanced roadmapping
 
 [Learn more](https://www.productboard.com/blog/2022-2-product-release-automation-roadmaps-prioritization/)

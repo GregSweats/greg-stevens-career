@@ -1,0 +1,99 @@
+{
+    "timeline" : {
+        "name" : "New timeline",
+        "description" : ""
+    },
+
+    "groups" : [
+          ],
+
+    "events" : [
+              {
+          "name" : "New\nevent",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1986 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "New\nevent",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1999 5 1",
+          "group" : ""
+        },
+              {
+          "name" : "New\nevent",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2004 1 3",
+          "group" : ""
+        },
+              {
+          "name" : "New\nevent",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "2008 1 18",
+          "group" : ""
+        }    ],
+
+    "periods" : [
+              {
+          "name" : "Childhood",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1985 11 1",
+          "timeTo" : "1998 7 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "Teen Hacking, Contracting",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1999 1 1 0 0",
+          "timeTo" : "2004 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "New\nevent",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "1999 1 2",
+          "timeTo" : "1999 1 2",
+          "group" : ""
+        },
+              {
+          "name" : "An example of a time span",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "2004 12 30",
+          "timeTo" : "2020 9 31 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "An example of a time span",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "2020 10 1",
+          "timeTo" : "2022 12 26",
+          "group" : ""
+        }    ],
+
+    "progresses" : [
+          ],
+
+    "statistics" : [
+          ],
+
+    "statisticsYandexMetrika" : [
+          ],
+
+    "statisticsGoogleAnalytics" : [
+          ],
+
+    "reportingAPIs" : [
+          ],
+
+    "tags" : [
+          ]
+}

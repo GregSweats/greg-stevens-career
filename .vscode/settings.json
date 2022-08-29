@@ -3,7 +3,8 @@
         "obsidian",
         "ui",
         "vscode",
-        "gitrepo"
+        "gitrepo",
+        "content"
     ],
     "files.eol": "\n",
     "files.insertFinalNewline": false,
